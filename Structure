@@ -1,0 +1,3 @@
+azure-devops-ci-cd/
+│── azure-pipelines.yml
+│── README.md
